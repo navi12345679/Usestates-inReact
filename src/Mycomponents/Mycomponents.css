@@ -1,0 +1,59 @@
+.Foods{
+    padding: 40px 50px;
+    display: flex;
+    flex-direction: column;
+   font-size: 20px;
+   border: 2px solid hsl(0, 2%, 34%);
+   border-radius: 10px;
+   box-shadow: 5px 5px 5px hsla(0, 92%, 10%, 0.1);
+}
+.Foods input{
+    width: 200px;
+    margin: 5px;
+    font-size: 20px;
+    
+}
+.Foods button{
+    width: 200px;
+    margin: 5px;
+    height: 30px;
+    background: #cacaca;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+}
+.cars{
+    padding: 40px 50px;
+    display: flex;
+    flex-direction: column;
+   font-size: 20px;
+   border: 2px solid hsl(0, 2%, 34%);
+   border-radius: 10px;
+   box-shadow: 5px 5px 5px hsla(0, 92%, 10%, 0.1);
+}
+.cars input{
+    width: 200px;
+    margin: 5px;
+    font-size: 20px;
+    
+}
+.cars button{
+    width: 200px;
+    margin: 5px;
+    height: 30px;
+    background: #cacaca;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+}
+.Foods h1{
+    font-weight: 400;
+    font-family: Arial, sans-serif;
+}
+.cars h1{
+    font-weight: 400;
+    font-family: Arial, sans-serif;
+}
+div{
+    background-color: hsl(204, 64%, 63%);
+}
